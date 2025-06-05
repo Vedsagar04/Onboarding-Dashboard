@@ -61,7 +61,7 @@ function Onboarding() {
   };
 
   const prevStep = () => {
-    setError('');  // Clear error on going back to previous step
+    setError('');
     setStep(step - 1);
   };
 
