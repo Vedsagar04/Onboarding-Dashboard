@@ -73,9 +73,11 @@ function ChartComponent() {
   return (
     <div className="chart-container">
       <h3>Weekly Progress</h3>
+      <div className="chart">
       <ResponsiveContainer width="100%" height={300}>
         {renderChart()}
       </ResponsiveContainer>
+      </div>
       <div style={{ marginBottom: '10px', textAlign: 'center',padding: '10px' , paddingRight: '20px'}}>
         <label htmlFor="chartType">Choose Chart Type: </label>
         <select id="chartType" value={chartType} onChange={(e) => setChartType(e.target.value)}>
