@@ -1,6 +1,5 @@
-# React + Vite
+# React Dashboard with Onboarding and Themed Layouts
 
-React Dashboard with Onboarding and Themed Layouts
 Project Overview
 This project is a React-based dashboard application featuring a multi-step onboarding wizard, user preferences for themes and layouts, and a smooth, animated user interface. The dashboard supports light and dark themes.
 
@@ -17,32 +16,33 @@ Tech Stack
 
     - Vite (fast development environment)
 
-Package Manager:
+- Package Manager:
 
-npm or yarn
+    - npm or yarn
 
-State Management:
+- State Management:
 
-React useState and useEffect
+    - React useState and useEffect
 
-Browser Storage:
+- Browser Storage:
 
-LocalStorage (for persisting user data/preferences)
+    - LocalStorage (for persisting user data/preferences)
 
 Features
-Multi-step onboarding form with validation and error feedback
+- Multi-step onboarding form with validation and error feedback
 
-Theme selection: Light or Dark mode
+- Theme selection: Light or Dark mode
 
-Layout selection: Grid or List view for dashboard cards
+- Layout selection: Grid or List view for dashboard cards
 
-Smooth fade-in animation for the dashboard page load
+- Smooth fade-in animation for the dashboard page load
 
-Animated card hover effects with transition
+- Animated card hover effects with transition
 
-Responsive and user-friendly UI
+- Responsive and user-friendly UI
 
-Persistent user preferences stored locally
+- Persistent user preferences stored locally
+- 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
