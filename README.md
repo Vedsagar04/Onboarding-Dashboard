@@ -69,7 +69,7 @@ Features
    ```sh
    npm run preview
    ```
-** Dependencies
+### Dependencies
 - react — UI library
 
 - react-dom — DOM bindings for React
@@ -80,26 +80,26 @@ Features
 
 Install dependencies automatically with npm install or yarn.
 
-* How to Use
-On first visit, the onboarding form will guide the user through three steps:
+### How to Use
+- On first visit, the onboarding form will guide the user through three steps:
 
-Personal info (name, email)
+    - Personal info (name, email)
 
-Business info (company, industry, size)
+    - Business info (company, industry, size)
 
-Preferences (theme and dashboard layout)
+    - Preferences (theme and dashboard layout)
 
-Validation errors appear in red if required fields are not filled.
+- Validation errors appear in red if required fields are not filled.
 
-Selecting theme and layout preferences controls the dashboard's appearance:
+- Selecting theme and layout preferences controls the dashboard's appearance:
 
-Light or Dark theme changes color scheme.
+    - Light or Dark theme changes color scheme.
 
-Grid or List layout changes how cards are displayed.
+    - Grid or List layout changes how cards are displayed.
 
-Dashboard fades in smoothly on load.
+- Dashboard fades in smoothly on load.
 
-Cards have subtle hover animations.
+- Cards have subtle hover animations.
 
 ## Contributing
 
