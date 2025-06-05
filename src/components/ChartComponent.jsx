@@ -71,20 +71,21 @@ function ChartComponent() {
   };
 
   return (
-    <div className="chart-container">
-      <h3>Weekly Progress</h3>
+    <div className="chart-wrapper">
+      <div className="chart-header">
+        <h3>Weekly Progress</h3>
+        <div className="chart-select">
+          <label htmlFor="chartType">Chart Type:</label>
+          <select id="chartType" value={chartType} onChange={(e) => setChartType(e.target.value)}>
+            <option value="line">Line</option>
+            <option value="bar">Bar</option>
+            <option value="pie">Pie</option>
+          </select>
+        </div>
+      </div>
       <ResponsiveContainer width="100%" height={300}>
         {renderChart()}
       </ResponsiveContainer>
-      <div style={{ marginBottom: '10px', textAlign: 'center',padding: '10px' , paddingRight: '20px'}}>
-        <label htmlFor="chartType">Choose Chart Type: </label>
-        <select id="chartType" value={chartType} onChange={(e) => setChartType(e.target.value)}>
-          <option value="line">Line Chart</option>
-          <option value="bar">Bar Chart</option>
-          <option value="pie">Pie Chart</option>
-        </select>
-      </div>
-      
     </div>
   );
 }
