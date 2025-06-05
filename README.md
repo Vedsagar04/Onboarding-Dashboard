@@ -1,6 +1,6 @@
 # React Dashboard with Onboarding and Themed Layouts
 
-Project Overview
+### Project Overview
 This project is a React-based dashboard application featuring a multi-step onboarding wizard, user preferences for themes and layouts, and a smooth, animated user interface. The dashboard supports light and dark themes.
 
 ### Tech Stack
