@@ -3,7 +3,7 @@
 Project Overview
 This project is a React-based dashboard application featuring a multi-step onboarding wizard, user preferences for themes and layouts, and a smooth, animated user interface. The dashboard supports light and dark themes.
 
-Tech Stack
+### Tech Stack
 - Frontend:
 
     - React.js (Functional Components + Hooks)
@@ -28,7 +28,7 @@ Tech Stack
 
     - LocalStorage (for persisting user data/preferences)
 
-Features
+### Features
 - Multi-step onboarding form with validation and error feedback
 
 - Theme selection: Light or Dark mode
@@ -101,6 +101,22 @@ Install dependencies automatically with npm install or yarn.
 
 - Cards have subtle hover animations.
 
+## Screenshots of the app
+
+![Dashboard Screenshot](/src/assets/1.png)
+![Dashboard Screenshot](/src/assets/2.png)
+![Dashboard Screenshot](/src/assets/3.png)
+![Dashboard Screenshot](/src/assets/4.png)
+![Dashboard Screenshot](/src/assets/5.png)
+![Dashboard Screenshot](/src/assets/6.png)
+![Dashboard Screenshot](/src/assets/7.png)
+![Dashboard Screenshot](/src/assets/8.png)
+![Dashboard Screenshot](/src/assets/9.png)
+![Dashboard Screenshot](/src/assets/10.png)
+![Dashboard Screenshot](/src/assets/11.png)
+![Dashboard Screenshot](/src/assets/12.png)
+![Dashboard Screenshot](/src/assets/13.png)
+
 ## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -115,21 +131,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact 
 Vedprakash Verma - [Github] https://github.com/Vedsagar04/Onboarding-Dashboard
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-
-Sample of porjects are
-![Dashboard Screenshot](/src/assets/1.png)
-![Dashboard Screenshot](/src/assets/2.png)
-![Dashboard Screenshot](/src/assets/3.png)
-![Dashboard Screenshot](/src/assets/4.png)
-![Dashboard Screenshot](/src/assets/5.png)
-![Dashboard Screenshot](/src/assets/6.png)
-![Dashboard Screenshot](/src/assets/7.png)
-![Dashboard Screenshot](/src/assets/8.png)
-![Dashboard Screenshot](/src/assets/9.png)
-![Dashboard Screenshot](/src/assets/10.png)
-![Dashboard Screenshot](/src/assets/11.png)
-![Dashboard Screenshot](/src/assets/12.png)
-![Dashboard Screenshot](/src/assets/13.png)
