@@ -110,14 +110,15 @@ Install dependencies automatically with npm install or yarn.
 ![Dashboard Screenshot](/src/assets/5.png)
 ![Dashboard Screenshot](/src/assets/6.png)
 ![Dashboard Screenshot](/src/assets/7.png)
-![Dashboard Screenshot](/src/assets/8.png)
+![Dashboard Screenshot](/src/assets/8.0.png)
 ![Dashboard Screenshot](/src/assets/8.1.png)
 ![Dashboard Screenshot](/src/assets/8.2.png)
+![Dashboard Screenshot](/src/assets/8.3.png)
 ![Dashboard Screenshot](/src/assets/9.png)
-![Dashboard Screenshot](/src/assets/10.png)
-![Dashboard Screenshot](/src/assets/11.png)
-![Dashboard Screenshot](/src/assets/12.png)
-![Dashboard Screenshot](/src/assets/13.png)
+![Dashboard Screenshot](/src/assets/9.1.png)
+![Dashboard Screenshot](/src/assets/9.2.png)
+![Dashboard Screenshot](/src/assets/9.3.png)
+
 
 ## Contributing
 
